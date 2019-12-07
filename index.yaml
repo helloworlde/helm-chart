@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  seata-server:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-07T16:35:58.364319+08:00"
+    description: Seata Server
+    digest: 24b65465cd57920a39d8192ef2ac47d9a62c7c625b32ed445c2d365a5481f42c
+    name: seata-server
+    urls:
+    - https://helloworlde.github.io/helm-chart/seata-server-1.0.0.tgz
+    version: 1.0.0
+generated: "2019-12-07T16:35:58.363093+08:00"
