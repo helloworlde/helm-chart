@@ -1,5 +1,5 @@
-# helm-chart
-helm-chart
+# Seata Server
+helm-chart repostory of seata-server
 
 ## Quick Start 
 
