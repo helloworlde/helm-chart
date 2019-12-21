@@ -1,3 +1,4 @@
+
 FROM alpine
 
-ENTRYPOINT ["echo $USER"]
+ENTRYPOINT [ "env"]
